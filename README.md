@@ -1,1 +1,1 @@
-# An easier way to user latex
+# An easier way to use latex
